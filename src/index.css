@@ -1,0 +1,12 @@
+/* Default browser and storybook element style overrides to help with flexbox layout issues*/
+html, body {
+  margin: 0;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+#root {
+  height: 100%;
+}
+
